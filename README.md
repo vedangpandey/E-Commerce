@@ -1,7 +1,7 @@
-<<<<<<< HEAD
+
 # E-Commerce
 Trying to Build an E-commerce website with payment integration and single sign on and learn more about spring boot ,javascript, and api's
-=======
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -72,4 +72,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
->>>>>>> 2033a92 (Initialize project using Create React App)
+
